@@ -1,0 +1,71 @@
+.memain{
+    height: 600px;
+    width: 80%;
+    margin-left: 15%;
+    display: flex;
+    position: relative;
+    bottom: 220px;
+}
+.meting img{
+    height: 800px;
+    width: 600px;
+    margin-right: 400px;
+    position: relative;
+    bottom: 60px;
+}
+.meshef{
+    position: relative;
+    right: 100px;
+}
+.meshef img{
+    height: 400px;
+    width: 300px;
+    position: relative;
+    bottom: 50px;
+    right: 50px;
+}
+.h11{
+    color: red;
+    position: relative;
+    bottom: 90px;
+    
+}
+.mename{
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    bottom: 70px;
+}
+.detl{
+    color: gray;
+    position: relative;
+    right:50px;
+    bottom: 80px;
+}
+.mbtn{
+    background-color: red;
+    color: white;
+    height: 60px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 50px;
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.mera{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 15  0px;
+}
+.mcon{
+    color: red;
+    font-size: 60px;
+    font-weight: 700;
+}
+.mcon1{
+    color: gray;
+    position: relative;
+    bottom: 60px;
+}

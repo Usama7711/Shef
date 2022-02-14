@@ -1,0 +1,31 @@
+.footmain{
+    margin-top: 190px;
+}
+.fot1{
+    display: flex;
+    background-color: red;
+    justify-content: space-evenly;
+}
+.foot1{
+    color: white;
+}
+.foma{
+    font-size: 60px;
+    font-weight: 800;
+}
+.fff1{
+    position: relative;
+    bottom: 60px;
+}
+.foot2 ul li{
+    list-style-type: none;
+    color: white;
+    position: relative;
+    top: 40px;
+}
+.fot2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}

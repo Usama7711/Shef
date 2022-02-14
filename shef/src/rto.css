@@ -1,0 +1,67 @@
+.rmain{
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.rhed p{
+    font-size: 60px;
+    font-weight: 600;
+}
+.rdis{
+    position: relative;
+    bottom: 40px;
+    font-weight: 10;
+}
+.zip{
+    position: relative;
+    right: -90px;
+}
+.zip input{
+    height: 60px;
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+.rtobtn{
+    background-color: red;
+    height: 50px;
+    width: 140px;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    position: relative;
+    right: 146px;
+}
+.zip input::placeholder{
+    font-weight: 500;
+    position: relative;
+    right: -110px;
+    font-size: 23px;
+}
+.last{
+    margin-left: 90px;
+    position: relative;
+    top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.last label{
+    color: red;
+    font-size: 23px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.last p{
+    font-weight: 10;
+    word-spacing: 3px;
+    
+}
+.labtn{
+    position: relative;
+    right: 90px;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    color: gray;
+    border: 1px solid gray;
+}

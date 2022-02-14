@@ -1,0 +1,30 @@
+.ord1 img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.ordhed p{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+    bottom: 30px;
+
+}
+.ordcon1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ordp1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.ordp2{
+    color: gray;
+    position: relative;
+    bottom: 60px;
+}
+.mainord{
+    position: relative;
+    bottom: 600px;
+}

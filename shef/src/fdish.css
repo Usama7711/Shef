@@ -1,0 +1,76 @@
+.fmain{
+    position: relative;
+    bottom: 400px;
+}
+.fhed{
+    color: red;
+    font-size: 60px;
+    position: relative;
+    left: 60px;
+    bottom: 180px;
+}
+.fdishmain{
+    height: 800px;
+    width: 80%;
+    display: flex;
+    position: relative;
+    left: 10%;
+    bottom: 150px;
+}
+.img1 img{
+    height: 800px;
+    width: 600px;
+    transition: 2s;
+}
+.img2 img{
+    height: 500px;
+    width: 700px;
+    position: relative;
+    top: 60px;
+    left: 60px;
+    transition: 2s;
+}
+.img3 img{
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: 90px;
+    left: 30px;
+    transition: 2s;
+}
+.fshefdet{
+    position: relative;
+    left: 490px;
+    bottom: 230px;
+}
+.fp1{
+    color: red;
+    font-size: 3px;
+}
+.fp2{
+    font-weight: 600;
+    position: relative;
+    top: -25px;
+}
+.fp3{
+    color: gray;
+    position: relative;
+    bottom: 50px;
+}
+.fpp1{
+    padding-top: 40px;
+    position: relative;
+    bottom: -20px;
+}
+.img1 img:hover{
+    height: 900px;
+    width: 700px;
+}
+.img2 img:hover{
+    height: 600px;
+    width: 800px;
+}
+.img3 img:hover{
+    height: 450px;
+    width: 400px;
+}
